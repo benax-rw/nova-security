@@ -26,7 +26,6 @@ _opencv_face_detector_uint8.pb_ - The binary file containing the trained model.
 You can download these files from OpenCV's GitHub repository [https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector].
 
 **Usage**
-
 Clone the repository and navigate to the project folder:
 
 git clone https://github.com/benax-rw/nova-security.git
